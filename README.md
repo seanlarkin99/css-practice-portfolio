@@ -6,6 +6,7 @@ Each branch here is used to represent one project related to my learning of CSS.
 A branch's number corresponds to the below titled section of [this course](https://www.udemy.com/course/the-complete-web-development-bootcamp).
 
 5: Intro to CSS
-6: Intermediate CSS
-7: Advanced CSS
+6: CSS Properties
+7: Intermediate CSS
+8: Advanced CSS
 
